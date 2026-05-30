@@ -1,0 +1,13 @@
+{
+  "disabledSkills": [
+    "fullstack-team"
+  ],
+  "builtinSkillStatus": {
+    "TRAE-code-review": true,
+    "TRAE-dynamic-ui": false,
+    "TRAE-generate-mini-app": true
+  },
+  "managedSkills": {
+    "agent-browser": "marketplace"
+  }
+}

@@ -1,0 +1,28 @@
+# Node.js binaries
+binaries/
+
+# Builtin skills (from Trae, not user's)
+builtin/
+builtin_skills/
+
+# VS Code extensions
+extensions/
+
+# Memory cleanup and session files
+memory/.cleanup/
+memory/projects/
+
+# IDE version files
+ide_version.json
+version.json
+
+# Settings (may contain personal info)
+settings.local.json
+memory-config.json
+
+# Git
+.git/
+
+# OS files
+Thumbs.db
+.DS_Store
